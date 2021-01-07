@@ -3,8 +3,16 @@
 ### Day 1: January 4, 2021
 Finished HTML unit and got partly thru CSS unit on freecodecamp.org
 <br>
-<h4><b>Day 2: January 5, 2021</b></h4>
+<h2><b>Day 2: January 5, 2021</b></h2>
 <br>
 Finished CSS unit and got partly thru Applied Visual Design unit on freecodecamp.org
+<br>
+<h2><b>Day 2: January 6, 2021</b></h2>
+<br>
+Day 3: Continued work on the Applied Visual Design unit. 
+<br>
+<h2><b>Day 2: January 7, 2021</b></h2>
+<br>
+Completed units on Applied Visual Design, Applied Accessibility, and Responsive Web Design Principles
 
 
