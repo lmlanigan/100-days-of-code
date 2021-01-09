@@ -14,5 +14,8 @@ Day 3: Continued work on the Applied Visual Design unit.
 <h3><b>Day 2: January 7, 2021</b></h3>
 <br>
 Completed units on Applied Visual Design, Applied Accessibility, and Responsive Web Design Principles
-
+<br>
+<h3><b>Day 2: January 8, 2021</b></h3>
+<br>
+Completed units on CSS Flexbox and CSS Grid
 
