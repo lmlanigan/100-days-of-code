@@ -24,4 +24,9 @@ Completed units on CSS Flexbox and CSS Grid
 Worked on Responsive Web Design Projects--Build a Survey Form
 <br>
 <a href="https://codepen.io/lmlanigan/pen/RwGBZdr">Link to Project</a>
-
+<br>
+<h3><b>Day 7: January 10, 2021</b></h3>
+<br>
+Completed Responsive Web Design Projects--Build a Survey Form
+<br>
+<a href="https://codepen.io/lmlanigan/pen/RwGBZdr">Link to Project</a>
