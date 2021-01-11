@@ -30,3 +30,9 @@ Worked on Responsive Web Design Projects--Build a Survey Form
 Completed Responsive Web Design Projects--Build a Survey Form
 <br>
 <a href="https://codepen.io/lmlanigan/pen/RwGBZdr">Link to Project</a>
+<br>
+<h3><b>January 11, 2021</b></h3>
+<br>
+Worked on Responsive Web Design Projects--Build a Product Landing Page</a>
+<br>
+<a href="https://codepen.io/lmlanigan/pen/yLaxQZY">Link to Project</a>
