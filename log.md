@@ -33,6 +33,12 @@ Completed Responsive Web Design Projects--Build a Survey Form
 <br>
 <h3><b>Day 8: January 11, 2021</b></h3>
 <br>
-Worked on Responsive Web Design Projects--Build a Product Landing Page</a>
+Worked on Responsive Web Design Projects--Build a Product Landing Page
 <br>
 <a href="https://codepen.io/lmlanigan/pen/yLaxQZY">Link to Project</a>
+<br>
+<h3><b>Day 9: January 12, 2021</b></h3>
+<br>
+Completed Responsive Web Design Projects--Build a Product Landing Page and Build a Technical Documentation Page
+<br>
+<a href="https://codepen.io/lmlanigan/pen/ZEpqXvj">Link to Project</a>
