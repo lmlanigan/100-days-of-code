@@ -42,3 +42,9 @@ Worked on Responsive Web Design Projects--Build a Product Landing Page
 Completed Responsive Web Design Projects--Build a Product Landing Page and Build a Technical Documentation Page
 <br>
 <a href="https://codepen.io/lmlanigan/pen/ZEpqXvj">Link to Project</a>
+<br>
+<h3><b>Day 10: January 13, 2021</b></h3>
+<br>
+Completed Responsive Web Design Projects--Personal Profile Page--and started unit on Basic Javascript
+<br>
+<a href="https://codepen.io/lmlanigan/pen/GqoJJG">Link to Project</a>
