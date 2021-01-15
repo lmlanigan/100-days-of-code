@@ -48,3 +48,7 @@ Completed Responsive Web Design Projects--Build a Product Landing Page and Build
 Completed Responsive Web Design Projects--Personal Profile Page--and started unit on Basic Javascript
 <br>
 <a href="https://codepen.io/lmlanigan/pen/GqoJJG">Link to Project</a>
+<br>
+<h3><b>Day 11: January 14, 2021</b></h3>
+<br>
+Continued work on Basic Javascript Unit
