@@ -52,3 +52,6 @@ Completed Responsive Web Design Projects--Personal Profile Page--and started uni
 <h3><b>Day 11: January 14, 2021</b></h3>
 <br>
 Continued work on Basic Javascript Unit
+<h3><b>Day 12: January 15, 2021</b></h3>
+<br>
+Continued work on Basic Javascript Unit
