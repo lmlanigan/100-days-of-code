@@ -59,3 +59,6 @@ Continued work on Basic Javascript Unit
 <h3><b>Day 13: January 16, 2021</b></h3>
 <br>
 Continued work on Basic Javascript Unit
+<h3><b>Day 14: January 17, 2021</b></h3>
+<br>
+Continued work on Basic Javascript Unit
