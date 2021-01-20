@@ -71,3 +71,7 @@ Finished work on Basic Javascript Unit
 <h3><b>Day 16: January 19, 2021</b></h3>
 <br>
 Began ES6 Unit
+<br>
+<h3><b>Day 17: January 20, 2021</b></h3>
+<br>
+Continued ES6 Unit
