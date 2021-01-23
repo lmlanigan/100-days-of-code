@@ -83,3 +83,7 @@ Finished ES6 Unit and began Regular Expressions Unit
 <h3><b>Day 19: January 22, 2021</b></h3>
 <br>
 Finished Regular Expressions Unit
+<br>
+<h3><b>Day 20: January 23, 2021</b></h3>
+<br>
+Began and Finished the Debugging Unit
