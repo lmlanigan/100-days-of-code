@@ -87,3 +87,7 @@ Finished Regular Expressions Unit
 <h3><b>Day 20: January 23, 2021</b></h3>
 <br>
 Began and Finished the Debugging Unit
+<br>
+<h3><b>Day 21: January 24, 2021</b></h3>
+<br>
+Began and Finished the Basic Data Structures Unit
