@@ -92,6 +92,6 @@ Began and finished the Debugging Unit
 <br>
 Began and finished the Basic Data Structures Unit
 <br>
-<h3><b>Day 22: January 25, 2021<//b></h3>
+<h3><b>Day 22: January 25, 2021</b></h3>
 <br>
 Began Basic Algorithmic Scripting Unit
