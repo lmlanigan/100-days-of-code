@@ -95,3 +95,7 @@ Began and finished the Basic Data Structures Unit
 <h3><b>Day 22: January 25, 2021</b></h3>
 <br>
 Began Basic Algorithmic Scripting Unit
+<br>
+<h3><b>Day 23: January 26, 2021</b></h3>
+<br>
+Finished Basic Algorithmic Scripting Unit and began Object Oriented Programming Unit
