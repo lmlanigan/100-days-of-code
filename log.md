@@ -103,3 +103,7 @@ Finished Basic Algorithmic Scripting Unit and began Object Oriented Programming 
 <h3><b>Day 24: January 27, 2021</b></h3>
 <br>
 Finished Object Oriented Programming Unit
+<br>
+<h3><b>Day 25: January 28, 2021</b></h3>
+<br>
+Began Functional Programming Unit
