@@ -107,3 +107,7 @@ Finished Object Oriented Programming Unit
 <h3><b>Day 25: January 28, 2021</b></h3>
 <br>
 Began Functional Programming Unit
+<br>
+<h3><b>Day 26: January 29, 2021</b></h3>
+<br>
+Finished Functional Programming Unit
