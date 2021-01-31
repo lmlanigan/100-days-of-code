@@ -111,3 +111,11 @@ Began Functional Programming Unit
 <h3><b>Day 26: January 29, 2021</b></h3>
 <br>
 Finished Functional Programming Unit
+<br>
+<h3><b>Day 27: January 30, 2021</b></h3>
+<br>
+Began Intermediate Algorithmic Scripting Unit
+<br>
+<h3><b>Day 28: January 31, 2021</b></h3>
+<br>
+Continued Intermediate Algorithmic Scripting Unit
